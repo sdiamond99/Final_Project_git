@@ -187,13 +187,13 @@ footer p {
 	figcaption {
 		font-size: 80%;
 	}
-	/*aside h2 {*/
-		/*font-size: 110%;*/
-	/*}*/
-	/*aside ul li {*/
-		/*font-size: 90%;*/
-	/*}*/
-/*}*/
+	aside h2 {
+		font-size: 110%;
+	}
+	aside ul li {
+		font-size: 90%;
+	}
+}
 
 @media only screen and (max-width: 767px) {
 	#nav_menu {
