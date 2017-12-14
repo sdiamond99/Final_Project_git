@@ -33,7 +33,7 @@ em { font-weight: bold; }
 
 /* the styles for the header */
 header {
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6051e2+50,6051e2+67 */
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6051e2+50,6051e2+67 */
 	background: rgba(252,236,252,1);
 	background: -moz-linear-gradient(-45deg, rgba(252,236,252,1) 0%, rgba(253,137,215,1) 51%, rgba(251,166,225,1) 73%, rgba(255,124,216,1) 100%);
 	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(252,236,252,1)), color-stop(51%, rgba(253,137,215,1)), color-stop(73%, rgba(251,166,225,1)), color-stop(100%, rgba(255,124,216,1)));
@@ -156,7 +156,7 @@ aside .site {
 footer {
 	clear: both;
 	padding-top: 1em;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6051e2+50,6051e2+67 */
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6051e2+50,6051e2+67 */
 	background: rgba(252,236,252,1);
 	background: -moz-linear-gradient(-45deg, rgba(252,236,252,1) 0%, rgba(253,137,215,1) 51%, rgba(251,166,225,1) 73%, rgba(255,124,216,1) 100%);
 	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(252,236,252,1)), color-stop(51%, rgba(253,137,215,1)), color-stop(73%, rgba(251,166,225,1)), color-stop(100%, rgba(255,124,216,1)));
